@@ -6,8 +6,8 @@
     <link rel="stylesheet" type = "text/css" href="style.css">
   
  <title>CRIANDO UM SITE </title>
- <h1> Quais comandos utilizaremos?</h1>
-<h2> Confira os principais comandos a seguir</h2>
+ <h1> Comandos Utilizados</h1>
+<h2> Leia os principais comandos abaixo</h2>
 
     <p> O HTML declara início e fim do documento </p>
     <p> O HEAD armazena informações gerais </p>
