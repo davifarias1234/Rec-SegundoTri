@@ -9,23 +9,23 @@
  <h1> Quais comandos utilizaremos?</h1>
 <h2> Confira os principais comandos a seguir</h2>
 
-    <p> Para declarar início e fim de um documento, usamos o HTML </p>
-    <p> Para armazenar informações gerais sem exibir, usamos o HEAD </p>
-    <p> Para identificarmos a parte visível do corpo do documento, usamos BODY </p>
-    <p> Para identificarmos e nomearmos um título, usamos TITLE </p>
-    <p> O comando OL cria uma lista ordenada </p>
-    <p> O comando UL cria uma lista sem ordem</p>
-    <p> O comando LI identifica o itens de uma lista </p>
-    <p>Para adicionarmos imagens, utilizamos IMG </p>
-    <p> Os comandos h1, h2, h3, h4, h5 e h6 são utilizados para titular títulos e subtítulos no documento</p>
-    <p> o P tem a função de marcar parágrafos </p>
-    <p>O comando STRONG é usado para deixar o texto em negrito </p>
-    <p> O comando A liga links e conteudos ao documento HTML</p>
+    <p> O HTML declara início e fim do documento </p>
+    <p> O HEAD armazena informações gerais </p>
+    <p> O BODY identifica a parte visivel da base documento </p>
+    <p> O TITLE faz um título no documento </p>
+    <p> O OL faz uma lista ordenada </p>
+    <p> O UL faz uma lista sem ordem</p>
+    <p> O LI identifica os itens contido na lista </p>
+    <p> O IMG adiciona imagens </p>
+    <p> O h1, h2, h3, h4, h5 e h6 fazem títulos e subtítulos no documento</p>
+    <p> O P cria parágrafos </p>
+    <p> O STRONG deixa o texto em negrito </p>
+    <p> O A liga links ao documento HTML</p>
 
-    <h2> Tradução dos comandos </h2>
+    <h2> Significado dos comandos </h2>
     <p> html; Sigla para HyperText Markup Language </p>
-    <p> head; Cabeçalho/Cabeça</p>
+    <p> head; Cabeçalho</p>
     <p> body; Corpo</p>
     <p> title; Título</p>
     <p> strong; Forte </p>
-    <P> img; Sigla para IMAGE </p>
+    <P> img; IMAGE </p>
