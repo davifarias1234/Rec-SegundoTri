@@ -11,11 +11,11 @@
 
     <p> O HTML declara início e fim do documento </p>
     <p> O HEAD armazena informações gerais </p>
-    <p> O BODY identifica a parte visivel da base documento </p>
+    <p> O BODY mostra a parte visivel da base documento </p>
     <p> O TITLE faz um título no documento </p>
     <p> O OL faz uma lista ordenada </p>
     <p> O UL faz uma lista sem ordem</p>
-    <p> O LI identifica os itens contido na lista </p>
+    <p> O LI identifica os itens da lista </p>
     <p> O IMG adiciona imagens </p>
     <p> O h1, h2, h3, h4, h5 e h6 fazem títulos e subtítulos no documento</p>
     <p> O P cria parágrafos </p>
